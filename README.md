@@ -2,17 +2,17 @@
 
 "The first repo I opened within the scope of Kodluyoruz Training"
 
-# Kodluyoruz First Repository
+## Kodluyoruz First Repository
 
 This repo [Kodluyoruz]([https://www.kodluzun.org/](https://www.kodluyoruz.org/)) is the first repo we created in the Front-End Tutorial. It contains one README file and one index.html.
 
-# Installation
+## Installation
 
 First clone the project.
 
 `git clone https://github.com/Wanudell/kodluyoruzilkrepo`
 
-# Usage
+## Usage
 
 After cloning the project, open it in Visual Studio Code.
 
@@ -21,10 +21,10 @@ Linux için:
 `cd kodluyoruzilkrepo
 code.`
 
-# Contributing
+## Contributing
 
 Pull requests are accepted. For major changes, please open a thread to discuss what you want to change first.
 
-# Licence
+## Licence
 
 [MIT](https://choosealicense.com/)
