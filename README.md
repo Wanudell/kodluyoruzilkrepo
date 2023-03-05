@@ -18,8 +18,8 @@ After cloning the project, open it in Visual Studio Code.
 
 Linux için:
 
-`cd kodluyoruzilkrepo
-code.`
+`cd kodluyoruzilkrepo`
+`code.`
 
 ## Contributing
 
